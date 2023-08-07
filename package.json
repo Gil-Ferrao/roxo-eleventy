@@ -20,6 +20,10 @@
    },
    "homepage": "https://github.com/Tanvir9290/Roxo_eleventy#readme",
    "dependencies": {
-      "@11ty/eleventy": "^0.12.1"
+      "minimatch": "^9.0.3",
+      "run": "^1.4.0"
+   },
+   "devDependencies": {
+      "@11ty/eleventy": "^2.0.1"
    }
 }

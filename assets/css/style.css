@@ -104,11 +104,11 @@ h6 {
 }
 
 .btn-primary {
-  background: #EAA4A4;
+  background: #cb5527;
   color: #fff;
 }
 .btn-primary:hover {
-  background: #e07b7b;
+  background: #cb5527;
 }
 
 .btn-secondary {
@@ -153,7 +153,7 @@ body {
   margin-bottom: 30px;
   padding: 0 0 10px 0;
   border-width: 0 0 1px 0;
-  border-color: #EAA4A4;
+  border-color: #cb5527;
   font-weight: 300;
   letter-spacing: 1px;
   -webkit-appearance: none;
@@ -219,7 +219,7 @@ textarea.form-control {
   margin: 0;
 }
 .site-navigation .navbar-brand img {
-  max-width: 78px;
+  max-width: 300px;
 }
 @media (max-width: 991px) {
   .site-navigation .nav-item {
@@ -234,7 +234,7 @@ textarea.form-control {
   position: relative;
 }
 .site-navigation .nav-item .nav-link:hover {
-  color: #EAA4A4;
+  color: #cb5527;
 }
 .site-navigation .nav-item:last-child {
   margin-left: 15px;
@@ -288,7 +288,7 @@ textarea.form-control {
 .site-hero {
   position: relative;
   height: 100vh;
-  background-image: url("../images/backgrounds/hero-background.jpg");
+  background-image: url("../images/backgrounds/mulherapintar.jpg");
   background-size: cover;
   background-position: center center;
   display: flex;
@@ -410,7 +410,7 @@ textarea.form-control {
 }
 .site-project-item-content span, .site-blog-post-content span {
   font-family: "Montserrat", sans-serif;
-  color: #EAA4A4;
+  color: #cb5527;
   display: block;
   margin-bottom: 10px;
 }
